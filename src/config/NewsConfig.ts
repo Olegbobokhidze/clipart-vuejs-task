@@ -36,35 +36,35 @@ export const NewsConfig: INewsConfig[] = [
     id: 5,
     description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
     category: 'popular',
-    image: './assets/images/home-news-popular-image.png',
+    image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
   },
   {
     id: 6,
     description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
     category: 'popular',
-    image: './assets/images/home-news-popular-image.png',
+    image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
   },
   {
     id: 7,
     description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
     category: 'popular',
-    image: './assets/images/home-news-popular-image.png',
+    image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
   },
   {
     id: 8,
     description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
     category: 'popular',
-    image: './assets/images/home-news-popular-image.png',
+    image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
   },
   {
     id: 9,
     description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
     category: 'popular',
-    image: './assets/images/home-news-popular-image.png',
+    image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
   }
 ]
