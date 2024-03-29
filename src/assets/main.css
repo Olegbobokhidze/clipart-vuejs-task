@@ -4,4 +4,28 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background-color: #f0f4f5;
+}
+
+.news-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 32px;
+  top: 78px;
+  left: 344px;
+  gap: 0px;
+  border-radius: 64px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.news-scrollbar::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.news-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #657178;
+  border-radius: 2px 2px 2px 2px;
+}
+
+.news-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #435c66;
 }
