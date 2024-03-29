@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-  <div class="flex h-full w-full flex-col gap-4 rounded-[1.25rem] bg-white px-4 pb-6 pt-3">
+  <div class="flex h-full w-full flex-col gap-4  rounded-[1.25rem] bg-white px-4 pb-6 pt-3">
     <div class="h-full w-full">
       <img
         src="@/assets/images/home-hero-image.jpeg"
