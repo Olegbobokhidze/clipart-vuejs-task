@@ -66,5 +66,26 @@ export const NewsConfig: INewsConfig[] = [
     category: 'popular',
     image: 'src/assets/images/home-news-popular-image.png',
     time: '7:30 02.01.2023'
+  },
+  {
+    id: 10,
+    description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
+    category: 'popular',
+    image: 'src/assets/images/home-news-popular-image.png',
+    time: '7:30 02.01.2023'
+  },
+  {
+    id: 11,
+    description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
+    category: 'popular',
+    image: 'src/assets/images/home-news-popular-image.png',
+    time: '7:30 02.01.2023'
+  },
+  {
+    id: 12,
+    description: 'დღეიდან ასაწონად განკუთვნილი პოლიეთილენის პარკები აიკრძალა',
+    category: 'popular',
+    image: 'src/assets/images/home-news-popular-image.png',
+    time: '7:30 02.01.2023'
   }
 ]
