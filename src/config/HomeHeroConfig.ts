@@ -1,3 +1,4 @@
+import HomeHeroImage from '@/assets/images/home-hero-image.jpeg'
 export type IHomeHeroConfig = {
   id: number
   title: string
@@ -15,7 +16,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 1,
@@ -24,7 +25,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 2,
@@ -33,7 +34,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 3,
@@ -42,7 +43,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 4,
@@ -51,7 +52,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 5,
@@ -60,7 +61,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 6,
@@ -69,7 +70,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 7,
@@ -78,7 +79,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 8,
@@ -87,7 +88,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 9,
@@ -96,7 +97,7 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   },
   {
     id: 10,
@@ -105,6 +106,6 @@ export const HomeHeroConfig: IHomeHeroConfig[] = [
       'განთავსების (ლისტინგის) ორგანიზატორი სომხეთის ბანკი სს “არდშიბანკია”. ობლიგაციის ნომინალი - 1000 USD',
     category: 'პოლიტიკა',
     date: '12.08.2023',
-    image: '/src/assets/images/home-hero-image.jpeg'
+    image: HomeHeroImage
   }
 ]
