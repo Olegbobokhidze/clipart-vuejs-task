@@ -1,39 +1,35 @@
-# .
+### Overview
 
-This template should help get you started developing with Vue 3 in Vite.
+This project follows a structured directory layout designed for a Vue, TypeScript, Tailwindcss web application. The core components are organized within the "src" directory. It includes subdirectories for assets, components, composables, and configuration files. I used Swiperjs for silders, tailwind-prettier-plugin for formatting classes and vue/usecore for composable useWindowSize.
 
-## Recommended IDE Setup
+### Links
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Live Site URL: [Clipart Task](https://clipart-vuejs-task.vercel.app/)
 
-## Type Support for `.vue` Imports in TS
+### Project Structure
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+```bash
+📁 src
+   📁 assets
+      📁 images
+         📄 main.css
+         📄 base.css
+   📁 components
+      📄 HomeHero.vue
+      📄 HomePopularNews.vue
+      📄 HomeAllNews.vue
+      📄 HomeFamousFacts.vue
+      📄 HomeBlogs.vue
+      📁 shared
+         📄 DefaultNavbar.vue
+      📁 icons
+         ...
+   📁 composables
+      📄 useBurgerMenu.ts
+   📁 config
+      📄 FamousFactsConfig.ts
+      📄 NewsConfig.ts
+      📄 HomeHeroConfig.ts
+      📄 NavbarConfig.ts
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
