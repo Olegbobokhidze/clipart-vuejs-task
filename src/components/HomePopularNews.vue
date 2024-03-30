@@ -6,7 +6,7 @@ const PopularNews = NewsConfig.filter((item) => item.category === 'popular')
 
 <template>
   <div
-    class="flex h-[20.625rem] w-full flex-col rounded-[1.25rem] bg-white px-4 pb-6 pt-3 small:h-[39rem] small:w-[350px]"
+    class="flex h-[20.625rem] w-full flex-col rounded-[1.25rem] bg-white px-4 pb-6 pt-3 small:h-[39rem] small:w-[20%]"
   >
     <h1 class="mb-5 text-base font-semibold text-[#1D2D35] tablet:text-xl">პოპულარული</h1>
     <div class="news-scrollbar flex w-full flex-col overflow-y-scroll">
